@@ -1,0 +1,17 @@
+h1 {
+    font-family:cursive;
+    text-align:center;
+    
+}
+.mylist {
+    font-family :times;
+    text-align:center;
+    
+}
+
+body {
+    background-color: tan;
+}
+#button {
+    font-family: fantasy;
+}
